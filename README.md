@@ -1,2 +1,3 @@
 # subscription-prediction
-PGP-AIML at UT Austin ensemble techniques
+
+Identified potential customers for subscribing to a term deposit.
