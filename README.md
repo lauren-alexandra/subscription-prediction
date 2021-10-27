@@ -4,7 +4,7 @@
 <tr>
 <td>
    Identified potential customers for subscribing to a term deposit.
-   <br />
+   <br /><br />
    The Bagging Classifier obtains the best recall performance. Ultimately we want more clients to subscribe term deposit so we want to decrease false negatives. For these reasons, I selected this algorithm and metric.
 </td>
 </tr>
